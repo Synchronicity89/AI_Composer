@@ -39,20 +39,14 @@ Follow the third step normally to install Tensorflow.
 * Step 3:
 
 ```
-cd ~
-git clone https://github.com/vishnubob/python-midi
-cd python-midi
-python setup.py install
+pip install git+https://github.com/vishnubob/python-midi@feature/python3
 ```
 
 
 
 
 ```
-cd ~
-git clone https://github.com/bspaans/python-mingus
-cd python-mingus
-python setup.py install
+pip install git+https://github.com/magic9911/python-mingus.git
 ```
 
 
